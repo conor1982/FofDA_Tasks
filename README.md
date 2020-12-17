@@ -1,25 +1,33 @@
 # Fundamentals of Data Analysis
 
-This repository is for Tasks/Assignments as part of the Funatmentals of Data Analysis Module.
+This repository is for Tasks/Assignments as part of the Fundatmentals of Data Analysis Module. This module is made up of four different tasks to complete.
 
-In this semester the wiull be four assignments to complete.
 
-## Task 1
+## Tasks
+1. Counts Function
+2. Diceroll
+3. Coin Flip
+4. Simpson's paradox
 
-Write a Python function called counts that takes a list as
-input and returns a dictionary of unique items in the list as keys and the number of
-times each item appears as values.
+The assignment requirements are as follows:
 
-No Python libary allowed in task
+### Set up
 
-### Task Project Plan
+Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
-* Jupyter notebook - refer to lecture videos
-* Revisit functions in Python. (Week 2 lecture vid)
-* Research user input of lists - case sensitive, list that can take numbers etc. Is user input required?
-* Research potential error handling whne deciding on what list to be used - String only, one letter string only etc.
-* Research count function in Python
-* Google for lists to dictionary counts etc. - no package allowed
-* Revise for loops
+Distribution of the Python used is [Anaconda Python distribution](https://www.anaconda.com/). 
+
+###  How to run the code
+
+1. Make sure that you have Python installed
+2. Download or clone current repository "numpy.random"
+3. Open Command Interpreter and naviagate to relevant directory
+4. Run Jupyter notebook
+5. On the home page of opened Jupyter server select PfDA- Assignment.ipynb
+
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ***
