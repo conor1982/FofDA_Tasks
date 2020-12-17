@@ -9,8 +9,6 @@ This repository is for Tasks/Assignments as part of the Fundatmentals of Data An
 3. Coin Flip
 4. Simpson's paradox
 
-The assignment requirements are as follows:
-
 ### Set up
 
 Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
